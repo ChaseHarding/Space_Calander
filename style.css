@@ -8,4 +8,6 @@ h1 {
 
 .parent-container {
     border: solid red 2px;
+    height: 60vh;
+    
 }

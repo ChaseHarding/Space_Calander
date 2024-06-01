@@ -9,12 +9,22 @@ h1 {
     color: white;
 }
 
+.days-of-week {
+    color: white;
+    font-family: "Zen Dots", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    border: 2px solid green;
+    justify-content: space-evenly;
+}
+
 .parent-container {
     border: solid red 2px;
     height: 60vh;
 }
 
-button{
+button {
     font-family: "Zen Dots", sans-serif;
     font-style: normal;
 }

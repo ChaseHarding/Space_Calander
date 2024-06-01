@@ -3,11 +3,18 @@ body {
 }
 
 h1 {
+    font-family: "Zen Dots", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     color: white;
 }
 
 .parent-container {
     border: solid red 2px;
     height: 60vh;
-    
+}
+
+button{
+    font-family: "Zen Dots", sans-serif;
+    font-style: normal;
 }
